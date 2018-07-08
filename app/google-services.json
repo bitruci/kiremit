@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "699908639958",
+    "firebase_url": "https://kiremit-f9d0e.firebaseio.com",
+    "project_id": "kiremit-f9d0e",
+    "storage_bucket": "kiremit-f9d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699908639958:android:610b8ef76a457a12",
+        "android_client_info": {
+          "package_name": "com.bitruci.kiremit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699908639958-ts115gup13r73qtrd2e6i2k8dl0ghhje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc8f5G-N8m_uRBpunp805Pkn96LOLEr60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
